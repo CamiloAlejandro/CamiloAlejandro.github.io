@@ -17,7 +17,6 @@ Incluir imagenes
   agent-id="d60931fe-1ac9-4d55-aa74-266c28e6da3c"
   language-code="es"
 ></df-messenger>
-
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
