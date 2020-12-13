@@ -12,8 +12,6 @@ Incluir imagenes
 
 
 
-
-![Grafo](https://www.madrimasd.org/blogs/matematicas/files/2012/09/Network_representation_of_brain_connectivity.jpg)
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
@@ -25,7 +23,7 @@ Incluir imagenes
     // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
 
     // the link to your model provided by Teachable Machine export panel
-    const URL = "https://teachablemachine.withgoogle.com/models/rv199ngpr/";
+    const URL = "https://teachablemachine.withgoogle.com/models/VWaOU6YFW/";
 
     let model, webcam, labelContainer, maxPredictions;
 
@@ -73,4 +71,3 @@ Incluir imagenes
         }
     }
 </script>
-
